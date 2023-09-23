@@ -1,6 +1,6 @@
 ﻿// % modulus on jääk, kui 8 küpsist 24 inimesele ss poolitamise asemel jääb 8 tervet alles
-int a = 100;
-int b = 2;
+int a = 29;
+int b = 7;
 
 int c = a % b;
 

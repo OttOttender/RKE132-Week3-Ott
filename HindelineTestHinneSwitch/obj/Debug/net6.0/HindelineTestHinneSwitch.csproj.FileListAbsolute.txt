@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\bin\Debug\net6.0\HindelineTestHinneSwitch.exe
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\bin\Debug\net6.0\HindelineTestHinneSwitch.deps.json
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\bin\Debug\net6.0\HindelineTestHinneSwitch.runtimeconfig.json
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\bin\Debug\net6.0\HindelineTestHinneSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\bin\Debug\net6.0\HindelineTestHinneSwitch.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.AssemblyInfo.cs
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\refint\HindelineTestHinneSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\HindelineTestHinneSwitch.genruntimeconfig.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneSwitch\obj\Debug\net6.0\ref\HindelineTestHinneSwitch.dll

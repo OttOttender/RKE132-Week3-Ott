@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\bin\Debug\net6.0\HindelineTestHinneIf.exe
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\bin\Debug\net6.0\HindelineTestHinneIf.deps.json
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\bin\Debug\net6.0\HindelineTestHinneIf.runtimeconfig.json
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\bin\Debug\net6.0\HindelineTestHinneIf.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\bin\Debug\net6.0\HindelineTestHinneIf.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.AssemblyInfo.cs
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\refint\HindelineTestHinneIf.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\HindelineTestHinneIf.genruntimeconfig.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\HindelineTestHinneIf\obj\Debug\net6.0\ref\HindelineTestHinneIf.dll
