@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.exe
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.deps.json
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.runtimeconfig.json
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\bin\Debug\net6.0\Week3IfAndSwitch.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.AssemblyInfo.cs
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\refint\Week3IfAndSwitch.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\Week3IfAndSwitch.genruntimeconfig.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\Week3IfAndSwitch\obj\Debug\net6.0\ref\Week3IfAndSwitch.dll

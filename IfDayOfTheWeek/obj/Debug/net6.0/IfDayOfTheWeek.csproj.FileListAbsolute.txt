@@ -1,0 +1,14 @@
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.exe
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.deps.json
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.runtimeconfig.json
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\bin\Debug\net6.0\IfDayOfTheWeek.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.AssemblyInfo.cs
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\refint\IfDayOfTheWeek.dll
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.pdb
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\IfDayOfTheWeek.genruntimeconfig.cache
+D:\UNI\Visual projects\Week3IfAndSwitch\IfDayOfTheWeek\obj\Debug\net6.0\ref\IfDayOfTheWeek.dll
